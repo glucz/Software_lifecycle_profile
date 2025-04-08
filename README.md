@@ -32,7 +32,7 @@ Needed tools: Python, Perl, MySQL databse
 | ag_count  | int(11)    | YES  |     | NULL    |                | Aggregate visit count
 | ag_daycnt | int(11)    | YES  |     | NULL    |                | Number of days elapsed since the first recorded data for the user-agent
 | ag_nodata | tinyint(1) | YES  |     | NULL    |                | True if no data is available for the given date (non-valid 0)
-|-----------|------------|------|-----|---------|----------------|
+
 
 ### Data Retrieval Scripts
 * They are available in the similarly named folder
