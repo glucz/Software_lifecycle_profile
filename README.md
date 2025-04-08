@@ -7,6 +7,7 @@ Companion repository
 - [Quick start](#quick-start)
   + [Database](#database)
   + [Data Retrieval Scripts](#data-retrieval-scripts)
+  + [Input Data](#input-data)
   + [Data Processing Scripts](#data-processing-scripts)
   + [Filtered Data and Graphs](#filtered-data-and-graphs)
   + [Data Aggregation Scripts](#data-aggregation-scripts)
@@ -39,6 +40,10 @@ Needed tools: Python, Perl, MySQL databse
 
 The Perl scripts connect to the database and retrieve data for file processing in the required format. Please adjust the output folder as per your requirements.
 
+### Input Data
+* They are available in the similarly named folder
+
+This folder contains the data retrieved from the database by the retrieval scripts. Use this folder and files as input for the processing scripts
 
 ### Data Processing Scripts
 * They are available in the similarly named folder
